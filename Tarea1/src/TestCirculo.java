@@ -1,4 +1,4 @@
-/*@author Katherine Aangélica*/
+/*@author Katherine Angélica*/
 public class TestCirculo {
 
     public static void main(String[] args) {
